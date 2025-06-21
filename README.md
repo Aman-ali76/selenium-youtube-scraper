@@ -1,4 +1,4 @@
-# 📺 YouTube Video Scroller (Selenium-Based)
+# 📺 YouTube Video Scraper (Selenium-Based)
 
 This Python script automates a YouTube search using Selenium, scrolls dynamically to load multiple video results, and saves each video’s HTML block into individual files. It's useful as a base for building full-featured scrapers or analyzing YouTube's video container structure.
 
